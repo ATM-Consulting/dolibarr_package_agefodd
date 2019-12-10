@@ -5,4 +5,4 @@
 [submodule "htdocs/agefodd"]
 	path = htdocs/agefodd
     url = git@gogs.atm-consulting.fr:ATM-Consulting/store-agefodd.git
-    branch = 4.0
+    branch = 4.8
