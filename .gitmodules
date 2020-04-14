@@ -1,8 +1,8 @@
 [submodule "htdocs/referenceletters"]
 	path = htdocs/referenceletters
     url = git@github.com:ATM-Consulting/dolibarr_module_referenceletters.git
-    branch = 2.0_agefodd
+    branch = 2.0
 [submodule "htdocs/agefodd"]
 	path = htdocs/agefodd
     url = git@gogs.atm-consulting.fr:ATM-Consulting/store-agefodd.git
-    branch = 4.8
+    branch = 4.9
